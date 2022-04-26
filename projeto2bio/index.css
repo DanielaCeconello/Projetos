@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Roboto+Mono:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Montserrat:wght@200&family=Roboto+Mono:wght@400;500&display=swap');
+
+
+body {color: white;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:19px;
+}
+
+ul {
+    display:flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    font-family: "Anton", sans-serif;
+    font-size: 28px;
+}
+
+    a 
+    {color: white;
+    text-decoration: none;}
+
+
+   header img
+ { width: 230px;
+   border-radius:  100%; 
+   border: 5px solid rgb(237, 142, 209);
+}
+
+.center 
+{text-align: center;
+ font-family: "Roboto+Mono" sans-serif;
+ font-size: 20px;
+ color: rgb(140, 74, 143);
+}
+
+.titulo2
+{text-align: center;
+font-family: "MontSerrat";
+font-size: 16px;
+color: rgb(193, 54, 84);
+}
+
+footer img
+{width: 80px;
+height: 80px;  
+}
+
+footer {
+    display:flex;
+    justify-content: center; 
+
+}
+
+footer a {
+    margin: 30px;
+    text-align: center;
+} 
+
+.conteiner {
+    padding:0px 30px;
+    text-align: justify;
+}
+
+.subtitulo1 {
+    color: rgb(113, 175, 227);
+}
+
+.subtitulo2 {
+    color: rgb(228, 100, 198);
+}
+
+.subtitulo3 {
+    color: rgb(113, 175, 227);
+}
+
+
+
+
+
+
+
+
